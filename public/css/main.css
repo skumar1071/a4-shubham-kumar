@@ -1,0 +1,19 @@
+body {
+  min-height: 100vh;
+}
+
+header h1 {
+  font-weight: 700;
+}
+
+.card {
+  border: 0;
+}
+
+table {
+  min-width: 850px;
+}
+
+textarea {
+  resize: vertical;
+}
